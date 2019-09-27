@@ -1,5 +1,5 @@
 ## Personal Github Repos
 
-[Datacamp Premium Projects](https://github.com/theajit/datacamp-projects)
+[Datacamp Premium Projects](http://github.theajit.in/datacamp-projects/)
 
-[Boxoffie Mojo Data Import and Visualiztion](https://github.com/theajit/boxoffice-mojo)
+[Boxoffie Mojo Data Import and Visualiztion](http://github.theajit.in/boxoffice-mojo)
